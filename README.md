@@ -1,0 +1,2 @@
+# Bank-Network
+BMIC is a bank, which has branches in Malaysia. The Headquarters of the bank is located at kuala Lumpur and branches are located at Cheras, Melaka, Penang, Ipoh, Puchong, Cyberjaya and Putrajaya.All the branches should be able to communicate with each other and each branch should have application server and database server.The following table shows the number of hosts required for the headquarters and branches.
