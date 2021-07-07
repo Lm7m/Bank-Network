@@ -15,3 +15,8 @@ BMIC is a bank, which has branches in Malaysia. The Headquarters of the bank is 
 
 ## What is a PKT file?
 Contains a simulation of a network setup for Packet Tracer, a network monitoring program developed by Cisco; allows users to test various network configurations; used primarily for educational purposes.
+
+
+## The project Documentation
+
+https://docs.google.com/document/u/1/d/1Bse0pHQNiTPTS3qh26VWBKHZVm6Lt9fI6bhAxMOJ5Jo/mobilebasic
